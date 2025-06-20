@@ -1,7 +1,6 @@
 #include <rclcpp/rclcpp.hpp>
 #include <cstring>
 #include <boost/algorithm/string.hpp>
-#include "erl_ass1_pkg_interfaces/msg/marker_info.hpp"
 #include "erl_ass1_pkg_interfaces/srv/robot_activation.hpp"
 #include <ros2_aruco_interfaces/msg/aruco_markers.hpp>
 
